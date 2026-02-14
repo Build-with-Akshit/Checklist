@@ -1,0 +1,19 @@
+- First point
+- Second point
+  - Sub-point
+* First point
+* Second point
+  * Sub-point
+
+- [ ] Ye kaam abhi baaki hai (Pending)
+- [x] Ye kaam ho gaya hai (Done)
+
+<details>
+  <summary>Click karke details dekhein</summary>
+
+  Yahan par aapka chupa hua text, images ya code aayega.
+</details>
+
+![Alt Text (Image ka naam)](https://link-to-image.com/image.png)
+
+![IMG_20260210_135012](https://github.com/user-attachments/assets/ed085fb4-7965-4d99-8946-ee5d86c25550)
